@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anonoleto.com.br/sitemap.xml
